@@ -1,16 +1,30 @@
 # friendsofbramleypark.com
 
-Please follow the instructions below to finish the setup of your new L1nkr site.
+## Develop your Site
 
-## Installation
-
-1) Add a LICENSE to your repo.
-2) Clone your version of the template to your local computer:
+1) Clone your repo to your local computer:
 ```shell
 git clone https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
 ```
-3) Modify `config/_default/hugo.yaml` and `config/_default/params.yaml` according to your needs. Find more info on the theme [wiki](https://github.com/chrede88/L1nkr/wiki/Configuration).
-4) Build a local version of your site by executing `hugo server` at the root of the repository. You can see the site by navigating to `http://localhost:1313/friendsofbramleypark.com/` (actual URL will be outputted in the CLI) in a browser.
+2) Modify `config/_default/hugo.yaml` and `config/_default/params.yaml` according to your needs. Find more info on the theme [wiki](https://github.com/chrede88/L1nkr/wiki/Configuration).
+3) Build and run a local version of your site by executing `hugo server --baseURL http://localhost:1313` at the root of the repository.
+4) See the site by navigating to `http://localhost:1313` in a browser (actual URL will be output in the CLI). (As you make changes to the codebase, the site will auto-regenerate).
+5) Push your changes to Github - the site will automatically rebuild and redeploy. (see more below).
+
+---
+
+## Deploy on Github Pages
+The site is deployed to Github Pages by means of a Github Action workflow that automatically builds and deploys the site.
+
+The site will be published to the following URL: `https://friendsofbramleypark.com`
+
+You can find the workflow config here: `.github/workflows//buildDeploy.yml`.
+
+Enabling the workflow (one-time setup only):
+
+Go to Settings -> Pages -> Build and deployment -> Set the Source to "Github Actions".
+
+Next time you push a change to the repo, this workflow will build and deploy the site.
 
 ---
 
@@ -33,16 +47,4 @@ Replace X,Y & Z with the corresponding version numbers. You can find the release
 
 ---
 
-## Deploy on Github Pages
-You can very easily deploy your site using Github Pages. Included in this template is a Github Action workflow that will build and deploy your site to Github Pages automatically:+1:
 
-You can find the workflow here `.github/deploymentWorkflow/buildDeploy.yml`. To use this, move it to `.github/workflows/`.
-
-The workflow is already set up and ready to go, but go through it and spend some time to understand what's going on. Otherwise, it'll always be this black box of magic that you can't fix when it breaks!
-
-Last step: Go to Settings -> Pages -> Build and deployment -> Set the Source to "Github Actions".
-
-Next time you publish a release this workflow will build and deploy your site :tada:
-
-Your site will be published to the following URL:
-`https://Friends-of-Bramley-Park.github.io/friendsofbramleypark.com`
