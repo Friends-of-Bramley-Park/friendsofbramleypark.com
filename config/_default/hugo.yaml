@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://Friends-of-Bramley-Park.github.io/friendsofbramleypark.com"
-title: friendsofbramleypark.com
+baseURL: "https://friendsofbramleypark.com"
+title: Friends of Bramley Park
 
 ############################
 ## MODULES
@@ -19,5 +19,5 @@ module:
 
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
-languageCode: "en-us"
+languageCode: "en-gb"
 enableRobotsTXT: true
