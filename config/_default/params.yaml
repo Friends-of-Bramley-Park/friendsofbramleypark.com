@@ -5,8 +5,8 @@
 author:
   name: Friends-of-Bramley-Park
   image: author.png
-  greeting: "Your new L1nkr site :tada:"
-  icon: ":wave:"
+  greeting: "Reet good trees tha knows"
+#  icon: ":deciduous_tree:"
 
 ############################
 ## Links
@@ -86,6 +86,6 @@ tooltip: false
 ###############################
 
 title: friendsofbramleypark.com
-description: "Demo site build with L1nkr & Hugo"
+description: "Reet good trees tha knows"
 images:
   - thumbnail.png
