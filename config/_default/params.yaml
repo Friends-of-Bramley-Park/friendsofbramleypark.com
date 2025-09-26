@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: "L1nkr"
+  name: Friends-of-Bramley-Park
   image: author.png
-  greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
+  greeting: "Your new L1nkr site :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,9 +13,9 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/L1nkr
-  - link: https://github.com/chrede88/L1nkr#readme
-  - website: https://gohugo.io
+  - github: https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
+  - link: https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com#readme
+  # - website:
   # - x-twitter:
   # - mastodon:
   # - linkedin:
@@ -65,7 +65,7 @@ links:
 ############################
 
 # between 2 & 6 columns are supported (both incl)
-columns: 3
+columns: 2
 
 ###########################
 ## Icon text
@@ -85,7 +85,7 @@ tooltip: false
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "L1nkr"
+title: friendsofbramleypark.com
 description: "Demo site build with L1nkr & Hugo"
 images:
   - thumbnail.png

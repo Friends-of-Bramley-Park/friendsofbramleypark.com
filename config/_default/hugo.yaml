@@ -2,8 +2,16 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://username.github.io/L1nkr"
-title: "L1nkr"
+baseURL: "https://Friends-of-Bramley-Park.github.io/friendsofbramleypark.com"
+title: friendsofbramleypark.com
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/chrede88/L1nkr
 
 ############################
 ## MISC
@@ -13,8 +21,3 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
-markup:
-  goldmark:
-    renderHooks:
-      image:
-        enableDefault: true

@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
 
 go 1.25.1
 
