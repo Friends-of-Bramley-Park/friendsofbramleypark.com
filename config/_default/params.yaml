@@ -13,7 +13,7 @@ author:
 ############################
 
 links:
-  - github: https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
+  # - github: https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
   - facebook: https://www.facebook.com/groups/3395248527372540
   # - link: https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com#readme
   # - website:
@@ -23,11 +23,12 @@ links:
   # - instagram:
   # - reddit:
   # - telegram:
-  # - whatsapp:
+  - whatsapp: https://whatsapp.com/channel/0029VbAtkjP0wak1lIdzMH14
   # - signal:
   # - codepen:
   # - dev:
-  # - email:
+  - email: mailto:friendsofbramleypark@gmail.com
+  - newsletter: https://eepurl.com/jm461E
   # - discord:
   # - orcid:
   # - slack:
@@ -58,15 +59,16 @@ links:
   # - apple:
   # - amazon:
   # - google:
-  # - paypal:
+  - paypal: https://www.paypal.com/paypalme/bramleypark
   # - windows:
+
 
 ############################
 ## Colunms of Links
 ############################
 
 # between 2 & 6 columns are supported (both incl)
-columns: 2
+columns: 5
 
 ###########################
 ## Icon text
