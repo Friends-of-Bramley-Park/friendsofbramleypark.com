@@ -89,3 +89,9 @@ title: friendsofbramleypark.com
 description: "Reet good trees tha knows"
 images:
   - thumbnail.png
+
+###############################
+## Style
+###############################
+
+monochrome: true
