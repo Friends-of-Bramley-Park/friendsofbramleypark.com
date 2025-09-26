@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://friendsofbramleypark.com"
-title: Friends of Bramley Park
+baseURL: "https://friendsofbramleypark.com/"
+title: "Friends of Bramley Park"
 
 ############################
 ## MODULES
