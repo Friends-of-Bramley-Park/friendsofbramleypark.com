@@ -2,14 +2,18 @@
 
 ## Develop your Site
 
-1) Clone your repo to your local computer:
+1) Install Hugo
+```shell
+sudo apt update && sudo apt install hugo
+```
+2) Clone your repo to your local computer:
 ```shell
 git clone https://github.com/Friends-of-Bramley-Park/friendsofbramleypark.com
 ```
-2) Modify `config/_default/hugo.yaml` and `config/_default/params.yaml` according to your needs. Find more info on the theme [wiki](https://github.com/chrede88/L1nkr/wiki/Configuration).
-3) Build and run a local version of your site by executing `hugo server --baseURL http://localhost:1313` at the root of the repository.
-4) See the site by navigating to `http://localhost:1313` in a browser (actual URL will be output in the CLI). (As you make changes to the codebase, the site will auto-regenerate).
-5) Push your changes to Github - the site will automatically rebuild and redeploy. (see more below).
+3) Modify `config/_default/hugo.yaml` and `config/_default/params.yaml` according to your needs. Find more info on the theme [wiki](https://github.com/chrede88/L1nkr/wiki/Configuration).
+4) Build and run a local version of your site. Run at the root of the repository: `hugo server --baseURL http://localhost:1313`.
+5) See the site by navigating to `http://localhost:1313` in a browser. (As you make changes to the codebase, the site will auto-regenerate).
+6) Push your changes to Github - the site will automatically rebuild and redeploy. (see more below).
 
 ---
 
