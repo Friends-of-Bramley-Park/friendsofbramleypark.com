@@ -1,4 +1,4 @@
-<div class="mb-2 mt-20 flex flex-col items-center justify-center max-width">
+<div class="mb-2 mt-20 flex flex-col items-center justify-center">
   {{/* Add image and site title */}}
   {{ $image := resources.GetMatch .Site.Params.Author.image }}
   {{ $name := .Site.Params.Author.name }}
@@ -21,7 +21,7 @@
   </h1>
 
   {{ with .Site.Params.Author.greeting }}
-    <h2 class="mt-4 text-center text-xl text-slate-700 dark:text-slate-400">
+    <h2 class="mt-4 text-center text-xl text-slate-700 dark:text-slate-400 max-width">
       {{ . | markdownify | emojify }}
     </h2>
   {{ end }}
