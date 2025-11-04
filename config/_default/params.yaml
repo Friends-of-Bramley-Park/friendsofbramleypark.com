@@ -72,7 +72,7 @@ links:
 ############################
 
 # between 2 & 6 columns are supported (both incl)
-columns: 5
+columns: 4
 
 ###########################
 ## Icon text
