@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.10875"
+     inkscape:cx="163.69786"
+     inkscape:cy="446.4487"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="1878"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <ellipse
+     style="fill:#000000;stroke-width:0.0634744"
+     id="path2"
+     cx="12"
+     cy="12"
+     rx="11.891769"
+     ry="11.692982" />
+  <path
+     d="M 5.2033187,9.7335584 H 18.796681 M 8.224066,5.2024372 V 6.7128108 M 15.775934,5.2024372 V 6.7128108 M 7.4688792,12.754305 h 1.5103736 m -1.5103736,3.020748 h 1.5103736 m 2.2655602,-3.020748 h 1.510374 m -1.510374,3.020748 h 1.510374 m 2.26556,-3.020748 h 1.510374 m -1.510374,3.020748 h 1.510374 m -8.9112045,3.020746 h 8.7601665 c 0.845885,0 1.268865,0 1.591934,-0.164631 0.284177,-0.144769 0.515264,-0.375856 0.660034,-0.660033 0.16463,-0.323068 0.16463,-0.746049 0.16463,-1.591934 V 9.1294086 c 0,-0.8458923 0,-1.2688347 -0.16463,-1.5919187 C 18.487281,7.2532904 18.256194,7.0222335 17.972017,6.877434 17.648948,6.7128108 17.225968,6.7128108 16.380083,6.7128108 H 7.6199165 c -0.8458848,0 -1.2688347,0 -1.5919187,0.1646232 C 5.7437983,7.0222335 5.5127414,7.2532904 5.3679419,7.5374899 5.2033187,7.8605739 5.2033187,8.2835163 5.2033187,9.1294086 v 7.2497924 c 0,0.845885 0,1.268866 0.1646232,1.591934 0.1447995,0.284177 0.3758564,0.515264 0.6600559,0.660033 0.323084,0.164631 0.7460264,0.164631 1.5919187,0.164631 z"
+     stroke="#000000"
+     stroke-width="1.51037"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+</svg>
