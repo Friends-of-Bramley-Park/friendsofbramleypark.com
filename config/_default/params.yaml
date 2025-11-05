@@ -21,7 +21,7 @@ links:
   - email: mailto:friendsofbramleypark@gmail.com
   - newsletter: https://eepurl.com/jm461E
   - paypal: https://www.paypal.com/paypalme/bramleypark
-  - Gardening-Club: https://www.facebook.com/events/1290310238992526/1290310295659187/
+  - Gardening-Club: https://www.facebook.com/events/1290310238992526/1290310295659187
   - Bramley-Market: https://www.facebook.com/profile.php?id=61581356734922
   
   # - signal:
@@ -93,7 +93,7 @@ tooltip: false
 ###############################
 
 title: friendsofbramleypark.com
-description: "Reet good trees tha knows"
+description: "Friends of Bramley Park"
 images:
   - thumbnail.png
 
